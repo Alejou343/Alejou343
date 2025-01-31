@@ -1,37 +1,37 @@
-# ¡Hola! 👋 Soy ***Alejandro Alvarez Uribe***
+# Hi there! 👋 I'm ***Alejandro Alvarez Uribe***
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Soy un apasionado del crecimiento profesional en los campos de los materiales y el desarrollo de software. Tengo una sólida experiencia que abarca tanto la ingeniería de materiales como el desarrollo web.
+Welcome to my GitHub profile! 🚀 I am passionate about professional growth in both materials engineering and software development. With a strong technical background and leadership experience, I thrive in creating innovative and efficient solutions.
 
-## Acerca de mí 💼
+## About Me 💼
 
-Con 6 meses de experiencia como ingeniero de materiales y 10 meses como desarrollador web, he perfeccionado habilidades técnicas y blandas que me han permitido destacar en ambas disciplinas.
+With experience as a **Technical Lead**, I have honed my expertise in **Generative AI** and **Large Language Models (LLMs)**, leading projects that integrate AI-driven solutions into real-world applications. My background spans **materials engineering** and **full-stack development**, providing a unique blend of problem-solving and technical versatility.
 
-A lo largo de mi trayectoria profesional, he enfrentado diversos desafíos que han fortalecido mi capacidad para resolver problemas y optimizar procesos. Desde optimizar la cantidad de residuos en plantas de poliéster hasta analizar variables que afectan las propiedades de los productos terminados, mi enfoque siempre ha sido encontrar soluciones eficientes y sostenibles.
+Throughout my career, I have tackled complex challenges, from optimizing waste reduction in polyester plants to analyzing variables that impact product properties. My focus has always been on finding efficient, scalable, and sustainable solutions.
 
-Mi pasión por la tecnología y el desarrollo de software me ha llevado a adquirir un amplio conjunto de habilidades en desarrollo frontend. He trabajado con diversas herramientas, lenguajes de programación, marcos y bibliotecas para crear soluciones innovadoras centradas en el usuario.
+My passion for technology has led me to master a broad set of **front-end** and **back-end** development skills, working with cutting-edge frameworks and tools to build user-centric applications. Additionally, my academic research has explored materials synthesized from waste, aiming to reduce environmental impact while improving material properties across industries.
 
-Además de mi experiencia profesional, también he destacado en el ámbito académico. Mi investigación se ha centrado en evaluar materiales sintetizados a partir de residuos, con el objetivo de reducir el impacto ambiental y mejorar las propiedades de los materiales utilizados en diversas industrias.
+## My Skills 🔧
 
-## Mis Habilidades 🔧
+- **Generative AI & LLMs** (Fine-tuning, Prompt Engineering, API Integration)
+- **Technical Leadership & Team Management**
+- **Software Development** (JavaScript, TypeScript, Python)
+- **Frontend Frameworks** (React.js, Next.js)
+- **Backend Frameworks** (Express.js, Nest.js)
+- **Data Science & Analysis** (Pandas, Matplotlib, Seaborn, NumPy)
+- **Materials Science & Engineering**
+- **Version Control** (Git, GitHub)
+- **Databases** (SQL, MongoDB)
+- **Problem-Solving & Research**
 
-- Ciencia e ingeniería de los Materiales
-- Desarrollo Web (HTML, CSS, JavaScript, Typescript)
-- Data (Python, Pandas, Matplotlib, Seaborn, Numpy)
-- Frameworks Frontend (React, Nextjs)
-- Control de Versiones (Git, GitHub)
-- Bases de Datos (SQL)
-- Investigación y Análisis
-- Resolución de Problemas
+## Let's Collaborate! 🤝
 
-## ¡Vamos a Colaborar! 🤝
+I am constantly learning and evolving, always looking for new challenges in AI, software development, and materials science. My ability to adapt to dynamic environments and lead technical teams makes me a valuable asset to any project.
 
-Con un enfoque continuo en el aprendizaje y el desarrollo personal, estoy preparado para enfrentar nuevos desafíos y seguir creciendo tanto en los campos de los materiales como del desarrollo de software. Mi amplio conocimiento y capacidad para adaptarme a entornos cambiantes me convierten en un activo valioso para cualquier equipo.
+I am excited to explore new opportunities and contribute to cutting-edge projects in **Artificial Intelligence, Full-Stack Development, and Materials Engineering**!
 
-¡Estoy emocionado de seguir explorando nuevas oportunidades y contribuir al éxito de proyectos innovadores!
+## Contact Me! 📫
 
-## ¡Contáctame! 📫
+If you're interested in collaborating on exciting projects or just want to connect, feel free to reach out!
 
-¡Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres conectarte, no dudes en contactarme!
-
-[¡Envíame un mensaje!](mailto:alejandro.auribe1@gmail.com)  
-[¡Perfil LinkedIn!](https://www.linkedin.com/in/alejandro-alvarez-65030a240/)
+[📧 Send me an Email](mailto:alejandro.auribe1@gmail.com)  
+[💼 Connect on LinkedIn](https://www.linkedin.com/in/alejou343/)
