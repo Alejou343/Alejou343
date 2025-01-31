@@ -34,5 +34,5 @@ I am excited to explore new opportunities and contribute to cutting-edge project
 If you're interested in collaborating on exciting projects or just want to connect, feel free to reach out!
 
 [📧 Send me an Email](mailto:alejandro.auribe1@gmail.com)  
-[🛜 Connect on LinkedIn](https://www.linkedin.com/in/alejou343/)
+[🛜 Connect on LinkedIn](https://www.linkedin.com/in/alejou343/)  
 [💼 My Portfolio](https://portfolio-six-pi-32.vercel.app/)
