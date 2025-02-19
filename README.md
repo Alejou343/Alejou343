@@ -12,7 +12,7 @@ My passion for technology has led me to master a broad set of **front-end** and 
 
 ## My Skills 🔧
 
-- **Generative AI & LLMs** (Fine-tuning, Prompt Engineering, API Integration)
+- **Generative AI & LLMs** (Langchain, Prompt Engineering, API Integration)
 - **Technical Leadership & Team Management**
 - **Software Development** (JavaScript, TypeScript, Python)
 - **Frontend Frameworks** (React.js, Next.js)
